@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Jikengohil26
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning BigQuery
+-  Always learning and exploring new technologies to push the boundaries of what’s possible.
+📫 Let's connect! Feel free to reach out or explore my repositories below.
 
 
 <!---
