@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Osiris26
+- 👋 Hi, I’m @Jikengohil26
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning BigQuery
 
